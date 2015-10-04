@@ -1,0 +1,38 @@
+body {
+	background-color: #f6f6f7;
+	margin:0px;
+}
+
+
+#menu {
+	background-color: #ebf5fc;
+	height:50px;
+	position: fixed;
+	top:0px;
+	width:100%;
+}
+
+#left {
+	background-color: #ebf4f3;
+	height:1500px;
+	width: 25%;
+	float: left;
+	margin-top:50px;
+}
+
+#right {
+	background-color: #fffded;
+	height:1500px;
+	width: 75%;
+	float: right;
+	margin-top:50px;
+}
+
+#footer {
+	background-color: #ececec;
+	height:35px;
+	clear:both;
+	position:fixed;
+	bottom:0px;
+	width:100%;
+}
